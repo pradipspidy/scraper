@@ -1,0 +1,200 @@
+[
+  {
+    'product_title': 'Boult Audio Z40 True Wireless in Ear Earbuds with 60H Playtime, Zen™ ENC Mic, Low Latency Gaming, Type-C Fast Charging, Made in India, 10mm Rich Bass Drivers, IPX5, Bluetooth 5.3 Ear Buds TWS (Blue)',
+    'price': '₹ 1,499',
+    'sponsored': True,
+    'asin': 'B0BQN2RMJF'
+  },
+  {
+    'product_title': 'Noise Newly Launched Buds VS106 Truly Wireless in-Ear Earbuds with 50H Playtime, Quad Mic with ENC, Instacharge(10 min=200 min),Ultra-Low Latency(up to 40ms), 10mm Driver, and BT v5.3 (Sky Blue)',
+    'price': '₹ 1,299',
+    'sponsored': True,
+    'asin': 'B0C4142ZZR'
+  },
+  {
+    'product_title': 'truke Newly Launched BTG Neo Dual Pairing Earbuds with 6-Mic Advanced ENC, 80H Playtime, 35ms Ultra-Low Latency, 13mm Titanium Drivers, 3 EQ Modes, Fast Charge, Instant Pairing, Bluetooth 5.3, IPX5',
+    'price': '₹ 1,499',
+    'sponsored': True,
+    'asin': 'B0C788NJSK'
+  },
+  {
+    'product_title': 'OnePlus Bullets Z2 Bluetooth Wireless in Ear Earphones with Mic, Bombastic Bass - 12.4 Mm Drivers, 10 Mins Charge - 20 Hrs Music, 30 Hrs Battery Life (Magico Black)',
+    'price': '₹ 1,999',
+    'sponsored': False,
+    'asin': 'B09TVVGXWS'
+  },
+  {
+    'product_title': 'boAt Rockerz 450 Bluetooth On Ear Headphones with Mic, Upto 15 Hours Playback, 40MM Drivers, Padded Ear Cushions, Integrated Controls and Dual Modes(Luscious Black)',
+    'price': '₹ 1,499',
+    'sponsored': False,
+    'asin': 'B07PR1CL3S'
+  },
+  {
+    'product_title': 'boAt Rockerz 255 Pro+ Bluetooth in Ear Earphones with Upto 60 Hours Playback, ASAP Charge, IPX7, Dual Pairing and Bluetooth v5.0(Navy Blue)',
+    'price': '₹ 1,199',
+    'sponsored': False,
+    'asin': 'B08TTXNZ4Y'
+  },
+  {
+    'product_title': 'Sony WH-CH520, Wireless On-Ear Bluetooth Headphones with Mic, Upto 50 Hours Playtime, DSEE Upscale, Multipoint Connectivity/Dual Pairing,Voice Assistant App Support for Mobile Phones (Black)',
+    'price': '₹ 4,490',
+    'sponsored': False,
+    'asin': 'B0BS1PRC4L'
+  },
+  {
+    'product_title': 'boAt Rockerz 255 Pro+ Bluetooth in Ear Earphones with Upto 60 Hours Playback, ASAP Charge, IPX7, Dual Pairing and Bluetooth v5.0(Teal Green)',
+    'price': '₹ 1,290',
+    'sponsored': False,
+    'asin': 'B08TSSCZR8'
+  },
+  {
+    'product_title': 'Infinity - JBL Tranz 710, 72 Hrs Playtime with Quick Charge, Wireless On Ear Headphone with Mic, Deep Bass, Dual Equalizer, Bluetooth 5.0 with Voice Assistant Support (Black)',
+    'price': '₹ 1,299',
+    'sponsored': False,
+    'asin': 'B0C93KSD6B'
+  },
+  {
+    'product_title': 'boAt Rockerz 205 Pro in Ear Bluetooth Neckband with Mic, Beast Mode(Low Latency Upto 65ms), ENx Tech for Clear Voice Calls,30 Hours Playtime, ASAP Charge,10mm Drivers,Dual Pairing & IPX5(Buoyant Blue)',
+    'price': '₹ 1,099',
+    'sponsored': False,
+    'asin': 'B09JGNL1QZ'
+  },
+  {
+    'product_title': 'Sony WI-XB400 Wireless Extra Bass in-Ear Headphones with 15 hrs Battery, Quick Charge, Magnetic Earbuds, Tangle Free Cord, BT Ver 5.0, Work from Home,Bluetooth Headset with Mic for Phone Calls (Blue)',
+    'price': '₹ 2,799',
+    'sponsored': False,
+    'asin': 'B07WTX73MB'
+  },
+  {
+    'product_title': 'Sony WH-CH520, Wireless On-Ear Bluetooth Headphones with Mic, Upto 50 Hours Playtime, DSEE Upscale, Multipoint Connectivity/Dual Pairing,Voice Assistant App Support for Mobile Phones (Blue)',
+    'price': '₹ 4,490',
+    'sponsored': False,
+    'asin': 'B0BS1RT9S2'
+  },
+  {
+    'product_title': 'SHOKZ OpenRun Bone Conduction Sports Headphones, Bluetooth Wireless Earphones with Mic, 8H Playtime, Open-Ear Waterproof Headset for Running, Workout, Driving, Standard Size(Lunar Grey)',
+    'price': '₹ 13,499',
+    'sponsored': True,
+    'asin': 'B09BVYBS4J'
+  },
+  {
+    'product_title': 'Boult Audio Newly Launched Z60 Truly Wireless in Ear Earbuds with 60H Playtime, Quad Mic ENC Clear Calling, 50ms Low Latency Gaming, IPX5 Ear Buds TWS, Bluetooth 5.3, 13mm Bass Drivers (Powder Blue)',
+    'price': '₹ 1,599',
+    'sponsored': True,
+    'asin': 'B0CBTXJJZH'
+  },
+  {
+    'product_title': 'Boult Audio ZCharge Wireless in Ear Bluetooth Neckband with ENC Mic, 40H Playtime, Type-C Fast Charging (10Mins=15Hrs Playtime), Dual Pairing, Made in India, Biggest 14.2mm Drivers Ear Phones (Blue)',
+    'price': '₹ 1,199',
+    'sponsored': True,
+    'asin': 'B09NR7Z144'
+  },
+  {
+    'product_title': 'boAt Rockerz 400 Bluetooth On Ear Headphones With Mic With Upto 8 Hours Playback & Soft Padded Ear Cushions(Grey/Green)',
+    'price': '₹ 999',
+    'sponsored': False,
+    'asin': 'B01FSYQ2A4'
+  },
+  {
+    'product_title': 'Zebronics Zeb-Bang Foldable Wireless BT Headphone Comes with 40mm Drivers, AUX Connectivity, Call Function, 16Hrs* Playback time & Supports Voice Assistant (Green)',
+    'price': '₹ 699',
+    'sponsored': False,
+    'asin': 'B07YNVFDK6'
+  },
+  {
+    'product_title': 'JBL Tune 510BT, On Ear Wireless Headphones with Mic, up to 40 Hours Playtime, Pure Bass, Quick Charging, Dual Pairing, Bluetooth 5.0 & Voice Assistant Support for Mobile Phones (Black)',
+    'price': '₹ 2,899',
+    'sponsored': False,
+    'asin': 'B08QTYYNDN'
+  },
+  {
+    'product_title': 'pTron Bassbuds Plus In-Ear TWS Earbuds with HD Mics, Bluetooth 5.0 Headphones with Immersive Sound, Stereo Calls, 28Hrs Playtime, Voice Assist Ready, IPX4 Water Resistant & Fast Charge (Electric Blue)',
+    'price': '₹ 699',
+    'sponsored': False,
+    'asin': 'B0C7S6WK2F'
+  },
+  {
+    'product_title': 'ZEBRONICS Zeb-Thunder Bluetooth Wireless Over The Ear Headphone FM, mSD, 9 hrs Playback with Mic (Blue with Red)',
+    'price': '₹ 599',
+    'sponsored': False,
+    'asin': 'B09B5F3QBH'
+  },
+  {
+    'product_title': 'ZEBRONICS Zeb-Thunder Bluetooth Wireless Over Ear Headphone FM, mSD, 9 hrs Playback with Mic (Black)',
+    'price': '₹ 599',
+    'sponsored': False,
+    'asin': 'B07L8KNP5F'
+  },
+  {
+    'product_title': 'boAt Rockerz 245v2 Bluetooth Wireless in Ear Earphones with Upto 8 Hours Playback, 12mm Drivers, IPX5, Magnetic Eartips, Integrated Controls and Lightweight Design with Mic (Navy Blue)',
+    'price': '₹ 1,099',
+    'sponsored': False,
+    'asin': 'B097DTJRWZ'
+  },
+  {
+    'product_title': 'boAt Rockerz 245 pro Bluetooth Neckband in Ear with Mic, Beast Mode(Super Low Latency) for Gaming, ENx Tech for Clear Calls, ASAP Charge, 20HRS Playtime,IPX4, Dual Pairing & BT v5.3(Fiery Black)',
+    'price': '₹ 999',
+    'sponsored': False,
+    'asin': 'B0BBVC2QVV'
+  },
+  {
+    'product_title': 'JBL Tune 215BT, 16 Hrs Playtime with Quick Charge, in Ear Bluetooth Wireless Earphones with Mic, 12.5mm Premium Earbuds with Pure Bass, BT 5.0, Dual Pairing, Type C & Voice Assistant Support (Black)',
+    'price': '₹ 1,499',
+    'sponsored': False,
+    'asin': 'B08FB2LNSZ'
+  },
+  {
+    'product_title': 'Oppo Enco M32 with Mic, 10 Mins Charge 20 Hrs Playtime, 28H Battery Life, Bluetooth 5.0 in Ear Wireless Earphone, Noise Cancellation During Calls IP54 Dust & Water Resistant (Green)',
+    'price': '₹ 1,799',
+    'sponsored': False,
+    'asin': 'B09NMNWKX6'
+  },
+  {
+    'product_title': 'Infinity - JBL Glide 120, in Ear Wireless Earphones with Mic, Deep Bass, Dual Equalizer, 12mm Drivers, Premium Metal Earbuds, Comfortable Flex Neckband, Bluetooth 5.0, IPX5 Sweatproof (Black & Red)',
+    'price': '₹ 799',
+    'sponsored': False,
+    'asin': 'B0BFRSC84C'
+  },
+  {
+    'product_title': 'OnePlus Bullets Z2 Bluetooth Wireless in Ear Earphones with Mic, Bombastic Bass, 10 Mins Charge - 20 Hrs Music, 30 Hrs Battery Life (Acoustic Red)',
+    'price': '₹ 1,999',
+    'sponsored': False,
+    'asin': 'B0B3MNYGTW'
+  },
+  {
+    'product_title': 'boAt Rockerz 255 Pro+ Bluetooth in Ear Earphones with Upto 60 Hours Playback, ASAP Charge, IPX7, Dual Pairing and Bluetooth v5.0(Active Black)',
+    'price': '₹ 1,299',
+    'sponsored': False,
+    'asin': 'B08TV2P1N8'
+  },
+  {
+    'product_title': 'ZEBRONICS Zeb-Evolve BTv5.0, Voice Assistant, Rapid Charge, Dual Pairing, Call Function, Magnetic Earpiece Bluetooth Wireless in Ear Earphones with Mic (Metallic Green)',
+    'price': '₹ 499',
+    'sponsored': False,
+    'asin': 'B09GFVB6N8'
+  },
+  {
+    'product_title': 'boAt Airdopes 141 Bluetooth Truly Wireless in Ear Headphones with 42H Playtime,Low Latency Mode for Gaming, ENx Tech, IWP, IPX4 Water Resistance, Smooth Touch Controls(Cyan Cider)',
+    'price': '₹ 1,299',
+    'sponsored': False,
+    'asin': 'B09N3XMZ5F'
+  },
+  {
+    'product_title': 'Boult Audio FXCharge Wireless in Ear Bluetooth Neckband with ENC Mic, 32H Playtime, Type-C Fast Charging (5Mins=7.5Hrs Playtime), Dual Pairing, Made in India, Biggest 14.2mm Drivers Ear Phones (Green)',
+    'price': '₹ 999',
+    'sponsored': True,
+    'asin': 'B0B6PF7Y5H'
+  },
+  {
+    'product_title': 'Boult Audio XCharge Wireless in Ear Bluetooth Earphones with ENC Mic, 28H Playtime, Type-C Fast Charging (15Min=15Hrs Playtime), Made in India, Biggest 14.2mm Bass Drivers Neckband (Black)',
+    'price': '₹ 799',
+    'sponsored': True,
+    'asin': 'B095MC5LGL'
+  },
+  {
+    'product_title': 'PTron Bassbuds Wave with TruTalk AI-ENC Calls, Movie/Music Modes, Deep Bass, BT5.3 Wireless Headphones, 40Hrs Combined Playtime, in-Ear TWS Earbuds, Touch Control & Typ-C Fast Charging & IPX4 (Blue)',
+    'price': '₹ 999',
+    'sponsored': True,
+    'asin': 'B0C6H766ZR'
+  }
+]
